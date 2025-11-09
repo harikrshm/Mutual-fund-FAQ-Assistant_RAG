@@ -1,0 +1,17 @@
+amc_name: "SBI Mutual Fund"
+schemes:
+  - name: "SBI Bluechip Fund"
+    category: "Large-cap"
+  - name: "SBI Flexicap Fund"
+    category: "Flexi-cap"
+  - name: "SBI Long Term Equity Fund"
+    category: "ELSS"
+  - name: "SBI Magnum Gilt Fund"
+    category: "Debt"
+  - name: "SBI Nifty Index Fund"
+    category: "Index"
+metadata:
+  version: "0.1"
+  created_date: "2025-01-09"
+  description: "Configuration for SBI Mutual Fund FAQ Assistant"
+

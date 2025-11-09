@@ -1,0 +1,708 @@
+{
+  "bluechip_expense_ratio_1": {
+    "question_variants": [
+      "What is the expense ratio of SBI Bluechip Fund?",
+      "Expense ratio for SBI Bluechip Fund",
+      "SBI Bluechip Fund expense ratio"
+    ],
+    "answer": "The direct plan expense ratio for SBI Bluechip Fund is approximately 0.62%. Regular plan expense ratio may be higher. Please refer to the latest factsheet for current rates.",
+    "source": "https://www.sbmf.com/schemes/bluechip/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "expense_ratio"
+  },
+  "bluechip_expense_ratio_2": {
+    "question_variants": [
+      "What are the charges for SBI Bluechip Fund?",
+      "Total expense ratio SBI Bluechip Fund"
+    ],
+    "answer": "SBI Bluechip Fund charges include expense ratio which varies between direct and regular plans. Direct plan typically has lower expense ratio around 0.62%. Refer to the factsheet for detailed fee structure.",
+    "source": "https://www.sbmf.com/schemes/bluechip/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "expense_ratio"
+  },
+  "bluechip_exit_load_1": {
+    "question_variants": [
+      "What is the exit load for SBI Bluechip Fund?",
+      "Exit load of SBI Bluechip Fund",
+      "Early withdrawal charges SBI Bluechip Fund"
+    ],
+    "answer": "SBI Bluechip Fund may charge an exit load for redemptions within a specified period from the date of investment. Please check the latest factsheet or KIM for current exit load structure.",
+    "source": "https://www.sbmf.com/schemes/bluechip/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "exit_load"
+  },
+  "bluechip_exit_load_2": {
+    "question_variants": [
+      "What happens if I withdraw from SBI Bluechip Fund early?",
+      "Penalty for early redemption SBI Bluechip Fund"
+    ],
+    "answer": "Early redemptions from SBI Bluechip Fund may be subject to exit load charges as specified in the scheme information document. Exit load details are available in the Key Information Memorandum.",
+    "source": "https://www.sbmf.com/schemes/bluechip/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "exit_load"
+  },
+  "bluechip_sip_1": {
+    "question_variants": [
+      "What is the minimum SIP amount for SBI Bluechip Fund?",
+      "Minimum SIP investment in SBI Bluechip Fund",
+      "SIP minimum SBI Bluechip Fund"
+    ],
+    "answer": "The minimum SIP amount for SBI Bluechip Fund is typically Rs. 500 per month. Additional SIP investments can be made in multiples as specified in the scheme documents.",
+    "source": "https://www.sbmf.com/schemes/bluechip/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "sip"
+  },
+  "bluechip_sip_2": {
+    "question_variants": [
+      "How much can I invest via SIP in SBI Bluechip Fund?",
+      "SIP investment amount SBI Bluechip Fund"
+    ],
+    "answer": "SBI Bluechip Fund allows SIP investments starting from a minimum of Rs. 500 per month. There is no maximum limit for SIP investments. Please refer to the FAQ page for current investment limits.",
+    "source": "https://www.sbmf.com/schemes/bluechip/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "sip"
+  },
+  "bluechip_riskometer": {
+    "question_variants": [
+      "What is the riskometer rating for SBI Bluechip Fund?",
+      "Risk level of SBI Bluechip Fund",
+      "SBI Bluechip Fund risk rating"
+    ],
+    "answer": "SBI Bluechip Fund is categorized as a moderately high risk fund as it primarily invests in large-cap equity stocks. The riskometer rating indicates the risk-return profile of the scheme. Refer to the factsheet for the current riskometer rating.",
+    "source": "https://www.sbmf.com/schemes/bluechip/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "riskometer"
+  },
+  "bluechip_benchmark": {
+    "question_variants": [
+      "What is the benchmark for SBI Bluechip Fund?",
+      "Benchmark index for SBI Bluechip Fund",
+      "SBI Bluechip Fund benchmark"
+    ],
+    "answer": "SBI Bluechip Fund uses S&P BSE 100 Index as its benchmark. The fund's performance is measured against this benchmark index. Current benchmark details are available in the factsheet.",
+    "source": "https://www.sbmf.com/schemes/bluechip/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "benchmark"
+  },
+  "bluechip_category": {
+    "question_variants": [
+      "What type of fund is SBI Bluechip Fund?",
+      "SBI Bluechip Fund category",
+      "Is SBI Bluechip Fund a large cap fund?"
+    ],
+    "answer": "SBI Bluechip Fund is a large-cap equity mutual fund that primarily invests in large-cap stocks. It is suitable for investors seeking long-term capital appreciation through investment in established companies.",
+    "source": "https://www.sbmf.com/schemes/bluechip/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Bluechip Fund",
+    "category": "general"
+  },
+  "flexicap_expense_ratio_1": {
+    "question_variants": [
+      "What is the expense ratio of SBI Flexicap Fund?",
+      "Expense ratio for SBI Flexicap Fund",
+      "SBI Flexicap Fund expense ratio"
+    ],
+    "answer": "The direct plan expense ratio for SBI Flexicap Fund is approximately 0.65%. Regular plan expense ratio may be higher. Please refer to the latest factsheet for current expense ratio details.",
+    "source": "https://www.sbmf.com/schemes/flexicap/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "expense_ratio"
+  },
+  "flexicap_expense_ratio_2": {
+    "question_variants": [
+      "What are the charges for SBI Flexicap Fund?",
+      "Total expense ratio SBI Flexicap Fund"
+    ],
+    "answer": "SBI Flexicap Fund charges include expense ratio which varies between direct and regular plans. The expense ratio covers management fees and operational costs. Refer to the factsheet for detailed fee structure.",
+    "source": "https://www.sbmf.com/schemes/flexicap/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "expense_ratio"
+  },
+  "flexicap_exit_load_1": {
+    "question_variants": [
+      "What is the exit load for SBI Flexicap Fund?",
+      "Exit load of SBI Flexicap Fund",
+      "Early withdrawal charges SBI Flexicap Fund"
+    ],
+    "answer": "SBI Flexicap Fund may charge an exit load for redemptions within a specified period. The exit load structure is detailed in the Key Information Memorandum and may vary based on the investment duration.",
+    "source": "https://www.sbmf.com/schemes/flexicap/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "exit_load"
+  },
+  "flexicap_exit_load_2": {
+    "question_variants": [
+      "What happens if I withdraw from SBI Flexicap Fund early?",
+      "Penalty for early redemption SBI Flexicap Fund"
+    ],
+    "answer": "Early redemptions from SBI Flexicap Fund may be subject to exit load charges as per the scheme terms. Please check the Key Information Memorandum for the current exit load structure and applicable conditions.",
+    "source": "https://www.sbmf.com/schemes/flexicap/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "exit_load"
+  },
+  "flexicap_sip_1": {
+    "question_variants": [
+      "What is the minimum SIP amount for SBI Flexicap Fund?",
+      "Minimum SIP investment in SBI Flexicap Fund",
+      "SIP minimum SBI Flexicap Fund"
+    ],
+    "answer": "The minimum SIP amount for SBI Flexicap Fund is Rs. 500 per month. Investors can increase their SIP amount as per their investment goals. Additional details are available in the FAQ section.",
+    "source": "https://www.sbmf.com/schemes/flexicap/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "sip"
+  },
+  "flexicap_sip_2": {
+    "question_variants": [
+      "How much can I invest via SIP in SBI Flexicap Fund?",
+      "SIP investment amount SBI Flexicap Fund"
+    ],
+    "answer": "SBI Flexicap Fund allows SIP investments starting from a minimum of Rs. 500 per month with no upper limit. Investors can set up multiple SIPs or modify existing ones as per their requirements.",
+    "source": "https://www.sbmf.com/schemes/flexicap/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "sip"
+  },
+  "flexicap_riskometer": {
+    "question_variants": [
+      "What is the riskometer rating for SBI Flexicap Fund?",
+      "Risk level of SBI Flexicap Fund",
+      "SBI Flexicap Fund risk rating"
+    ],
+    "answer": "SBI Flexicap Fund is categorized as a moderately high to high risk fund as it invests across market capitalizations (large-cap, mid-cap, and small-cap). The riskometer rating reflects the equity market risk. Refer to the factsheet for current rating.",
+    "source": "https://www.sbmf.com/schemes/flexicap/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "riskometer"
+  },
+  "flexicap_benchmark": {
+    "question_variants": [
+      "What is the benchmark for SBI Flexicap Fund?",
+      "Benchmark index for SBI Flexicap Fund",
+      "SBI Flexicap Fund benchmark"
+    ],
+    "answer": "SBI Flexicap Fund uses NIFTY 500 TRI (Total Return Index) as its benchmark. The fund's performance is measured against this benchmark to evaluate relative performance. Current benchmark details are in the factsheet.",
+    "source": "https://www.sbmf.com/schemes/flexicap/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "benchmark"
+  },
+  "flexicap_category": {
+    "question_variants": [
+      "What type of fund is SBI Flexicap Fund?",
+      "SBI Flexicap Fund category",
+      "What does flexicap mean?"
+    ],
+    "answer": "SBI Flexicap Fund is a flexible capitalization equity fund that can invest across large-cap, mid-cap, and small-cap stocks without any restrictions. This flexibility allows the fund manager to allocate based on market opportunities.",
+    "source": "https://www.sbmf.com/schemes/flexicap/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Flexicap Fund",
+    "category": "general"
+  },
+  "elss_expense_ratio_1": {
+    "question_variants": [
+      "What is the expense ratio of SBI Long Term Equity Fund?",
+      "Expense ratio for SBI Long Term Equity Fund",
+      "SBI Long Term Equity Fund expense ratio"
+    ],
+    "answer": "The direct plan expense ratio for SBI Long Term Equity Fund is approximately 0.68%. Regular plan expense ratio may be higher. Please refer to the latest factsheet for current expense ratio details.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "expense_ratio"
+  },
+  "elss_expense_ratio_2": {
+    "question_variants": [
+      "What are the charges for SBI Long Term Equity Fund?",
+      "Total expense ratio SBI Long Term Equity Fund"
+    ],
+    "answer": "SBI Long Term Equity Fund charges include expense ratio which varies between direct and regular plans. The expense ratio covers management fees and operational costs. Refer to the factsheet for detailed fee structure.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "expense_ratio"
+  },
+  "elss_exit_load_1": {
+    "question_variants": [
+      "What is the exit load for SBI Long Term Equity Fund?",
+      "Exit load of SBI Long Term Equity Fund",
+      "Early withdrawal charges SBI Long Term Equity Fund"
+    ],
+    "answer": "SBI Long Term Equity Fund is an ELSS (Equity Linked Savings Scheme) with a mandatory 3-year lock-in period. There is no exit load after the lock-in period. Redemptions are not allowed during the lock-in period.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "exit_load"
+  },
+  "elss_exit_load_2": {
+    "question_variants": [
+      "What happens if I withdraw from SBI Long Term Equity Fund early?",
+      "Penalty for early redemption SBI Long Term Equity Fund"
+    ],
+    "answer": "SBI Long Term Equity Fund has a mandatory 3-year lock-in period. Early withdrawal is not permitted during the lock-in period. After the lock-in period, there is no exit load charge.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "exit_load"
+  },
+  "elss_sip_1": {
+    "question_variants": [
+      "What is the minimum SIP amount for SBI Long Term Equity Fund?",
+      "Minimum SIP investment in SBI Long Term Equity Fund",
+      "SIP minimum SBI Long Term Equity Fund"
+    ],
+    "answer": "The minimum SIP amount for SBI Long Term Equity Fund is Rs. 500 per month. Each SIP instalment is subject to the 3-year lock-in period from its respective investment date. Additional details are in the FAQ section.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "sip"
+  },
+  "elss_sip_2": {
+    "question_variants": [
+      "How much can I invest via SIP in SBI Long Term Equity Fund?",
+      "SIP investment amount SBI Long Term Equity Fund"
+    ],
+    "answer": "SBI Long Term Equity Fund allows SIP investments starting from a minimum of Rs. 500 per month. The maximum investment eligible for tax deduction under Section 80C is Rs. 1.5 lakh per financial year.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "sip"
+  },
+  "elss_lockin_1": {
+    "question_variants": [
+      "What is the lock-in period for SBI Long Term Equity Fund?",
+      "Lock-in period for ELSS",
+      "Tax saving fund lock-in"
+    ],
+    "answer": "SBI Long Term Equity Fund has a mandatory lock-in period of 3 years from the date of investment. This lock-in period applies to each investment including SIP instalments. Redemptions are not allowed during the lock-in period.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "lockin"
+  },
+  "elss_lockin_2": {
+    "question_variants": [
+      "How long do I need to stay invested in SBI Long Term Equity Fund?",
+      "Minimum investment period ELSS",
+      "Lock-in duration for tax saving fund"
+    ],
+    "answer": "SBI Long Term Equity Fund requires a mandatory 3-year lock-in period for each investment. Each SIP instalment has its own 3-year lock-in period from the date of that specific instalment. This is a regulatory requirement for ELSS funds.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "lockin"
+  },
+  "elss_lockin_3": {
+    "question_variants": [
+      "Can I withdraw money from SBI Long Term Equity Fund before 3 years?",
+      "Early redemption ELSS fund",
+      "Withdraw before lock-in period"
+    ],
+    "answer": "No, you cannot withdraw money from SBI Long Term Equity Fund before the completion of the 3-year lock-in period. This is a mandatory requirement for all ELSS funds as per SEBI regulations. Each investment has its own 3-year lock-in period.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "lockin"
+  },
+  "elss_tax_benefit": {
+    "question_variants": [
+      "What is the tax benefit of investing in SBI Long Term Equity Fund?",
+      "Tax deduction ELSS",
+      "80C benefit SBI Long Term Equity Fund"
+    ],
+    "answer": "Investments in SBI Long Term Equity Fund are eligible for tax deduction under Section 80C of the Income Tax Act up to Rs. 1.5 lakh per financial year. The fund has a 3-year lock-in period and offers tax benefits along with potential long-term capital appreciation.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "general"
+  },
+  "elss_riskometer": {
+    "question_variants": [
+      "What is the riskometer rating for SBI Long Term Equity Fund?",
+      "Risk level of SBI Long Term Equity Fund",
+      "SBI Long Term Equity Fund risk rating"
+    ],
+    "answer": "SBI Long Term Equity Fund is categorized as a moderately high to high risk fund as it primarily invests in equity and equity-related instruments. The riskometer rating reflects the equity market risk. Refer to the factsheet for current rating.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "riskometer"
+  },
+  "elss_benchmark": {
+    "question_variants": [
+      "What is the benchmark for SBI Long Term Equity Fund?",
+      "Benchmark index for SBI Long Term Equity Fund",
+      "SBI Long Term Equity Fund benchmark"
+    ],
+    "answer": "SBI Long Term Equity Fund uses S&P BSE 200 Index as its benchmark. The fund's performance is measured against this benchmark to evaluate relative performance. Current benchmark details are available in the factsheet.",
+    "source": "https://www.sbmf.com/schemes/long-term-equity/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Long Term Equity Fund",
+    "category": "benchmark"
+  },
+  "gilt_expense_ratio_1": {
+    "question_variants": [
+      "What is the expense ratio of SBI Magnum Gilt Fund?",
+      "Expense ratio for SBI Magnum Gilt Fund",
+      "SBI Magnum Gilt Fund expense ratio"
+    ],
+    "answer": "The direct plan expense ratio for SBI Magnum Gilt Fund is approximately 0.35%. Regular plan expense ratio may be higher. Please refer to the latest factsheet for current expense ratio details.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "expense_ratio"
+  },
+  "gilt_expense_ratio_2": {
+    "question_variants": [
+      "What are the charges for SBI Magnum Gilt Fund?",
+      "Total expense ratio SBI Magnum Gilt Fund"
+    ],
+    "answer": "SBI Magnum Gilt Fund charges include expense ratio which is typically lower than equity funds, around 0.35% for direct plans. The expense ratio covers management fees and operational costs. Refer to the factsheet for detailed fee structure.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "expense_ratio"
+  },
+  "gilt_exit_load_1": {
+    "question_variants": [
+      "What is the exit load for SBI Magnum Gilt Fund?",
+      "Exit load of SBI Magnum Gilt Fund",
+      "Early withdrawal charges SBI Magnum Gilt Fund"
+    ],
+    "answer": "SBI Magnum Gilt Fund may charge an exit load for redemptions within a specified period. The exit load structure is detailed in the Key Information Memorandum. Please check the latest KIM for current exit load details.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "exit_load"
+  },
+  "gilt_exit_load_2": {
+    "question_variants": [
+      "What happens if I withdraw from SBI Magnum Gilt Fund early?",
+      "Penalty for early redemption SBI Magnum Gilt Fund"
+    ],
+    "answer": "Early redemptions from SBI Magnum Gilt Fund may be subject to exit load charges as per the scheme terms. Please check the Key Information Memorandum for the current exit load structure and applicable conditions.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "exit_load"
+  },
+  "gilt_sip_1": {
+    "question_variants": [
+      "What is the minimum SIP amount for SBI Magnum Gilt Fund?",
+      "Minimum SIP investment in SBI Magnum Gilt Fund",
+      "SIP minimum SBI Magnum Gilt Fund"
+    ],
+    "answer": "The minimum SIP amount for SBI Magnum Gilt Fund is Rs. 500 per month. Investors can increase their SIP amount as per their investment goals. Additional details are available in the fees page.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/fees",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "sip"
+  },
+  "gilt_sip_2": {
+    "question_variants": [
+      "How much can I invest via SIP in SBI Magnum Gilt Fund?",
+      "SIP investment amount SBI Magnum Gilt Fund"
+    ],
+    "answer": "SBI Magnum Gilt Fund allows SIP investments starting from a minimum of Rs. 500 per month with no upper limit. Investors can set up multiple SIPs or modify existing ones as per their requirements.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/fees",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "sip"
+  },
+  "gilt_riskometer": {
+    "question_variants": [
+      "What is the riskometer rating for SBI Magnum Gilt Fund?",
+      "Risk level of SBI Magnum Gilt Fund",
+      "SBI Magnum Gilt Fund risk rating"
+    ],
+    "answer": "SBI Magnum Gilt Fund is categorized as a moderate risk fund as it invests in government securities (gilt). While it carries credit risk, it has no default risk as it invests in government bonds. Refer to the factsheet for current riskometer rating.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "riskometer"
+  },
+  "gilt_benchmark": {
+    "question_variants": [
+      "What is the benchmark for SBI Magnum Gilt Fund?",
+      "Benchmark index for SBI Magnum Gilt Fund",
+      "SBI Magnum Gilt Fund benchmark"
+    ],
+    "answer": "SBI Magnum Gilt Fund uses I-Sec Composite Bond Index as its benchmark. The fund's performance is measured against this benchmark to evaluate relative performance. Current benchmark details are available in the factsheet.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "benchmark"
+  },
+  "gilt_category": {
+    "question_variants": [
+      "What type of fund is SBI Magnum Gilt Fund?",
+      "SBI Magnum Gilt Fund category",
+      "What are gilt funds?"
+    ],
+    "answer": "SBI Magnum Gilt Fund is a debt mutual fund that invests exclusively in government securities (gilt). These funds carry minimal credit risk as they invest in government bonds, but are subject to interest rate risk.",
+    "source": "https://www.sbmf.com/schemes/magnum-gilt/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Magnum Gilt Fund",
+    "category": "general"
+  },
+  "index_expense_ratio_1": {
+    "question_variants": [
+      "What is the expense ratio of SBI Nifty Index Fund?",
+      "Expense ratio for SBI Nifty Index Fund",
+      "SBI Nifty Index Fund expense ratio"
+    ],
+    "answer": "The direct plan expense ratio for SBI Nifty Index Fund is approximately 0.20%. Index funds typically have lower expense ratios compared to actively managed funds. Please refer to the latest factsheet for current rates.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "expense_ratio"
+  },
+  "index_expense_ratio_2": {
+    "question_variants": [
+      "What are the charges for SBI Nifty Index Fund?",
+      "Total expense ratio SBI Nifty Index Fund"
+    ],
+    "answer": "SBI Nifty Index Fund charges a low expense ratio, typically around 0.20% for direct plans, as it is a passively managed index fund. The expense ratio covers management fees and operational costs. Refer to the factsheet for detailed fee structure.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "expense_ratio"
+  },
+  "index_exit_load_1": {
+    "question_variants": [
+      "What is the exit load for SBI Nifty Index Fund?",
+      "Exit load of SBI Nifty Index Fund",
+      "Early withdrawal charges SBI Nifty Index Fund"
+    ],
+    "answer": "SBI Nifty Index Fund may charge an exit load for redemptions within a specified period from the date of investment. Please check the latest factsheet or KIM for current exit load structure.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "exit_load"
+  },
+  "index_exit_load_2": {
+    "question_variants": [
+      "What happens if I withdraw from SBI Nifty Index Fund early?",
+      "Penalty for early redemption SBI Nifty Index Fund"
+    ],
+    "answer": "Early redemptions from SBI Nifty Index Fund may be subject to exit load charges as specified in the scheme information document. Exit load details are available in the Key Information Memorandum.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "exit_load"
+  },
+  "index_sip_1": {
+    "question_variants": [
+      "What is the minimum SIP amount for SBI Nifty Index Fund?",
+      "Minimum SIP investment in SBI Nifty Index Fund",
+      "SIP minimum SBI Nifty Index Fund"
+    ],
+    "answer": "The minimum SIP amount for SBI Nifty Index Fund is Rs. 500 per month. Additional SIP investments can be made in multiples as specified in the scheme documents. Details are available in the FAQ section.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "sip"
+  },
+  "index_sip_2": {
+    "question_variants": [
+      "How much can I invest via SIP in SBI Nifty Index Fund?",
+      "SIP investment amount SBI Nifty Index Fund"
+    ],
+    "answer": "SBI Nifty Index Fund allows SIP investments starting from a minimum of Rs. 500 per month. There is no maximum limit for SIP investments. Please refer to the FAQ page for current investment limits.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "sip"
+  },
+  "index_riskometer": {
+    "question_variants": [
+      "What is the riskometer rating for SBI Nifty Index Fund?",
+      "Risk level of SBI Nifty Index Fund",
+      "SBI Nifty Index Fund risk rating"
+    ],
+    "answer": "SBI Nifty Index Fund is categorized as a moderately high risk fund as it invests in equity stocks that constitute the Nifty 50 Index. The riskometer rating indicates the risk-return profile. Refer to the factsheet for current rating.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "riskometer"
+  },
+  "index_benchmark": {
+    "question_variants": [
+      "What is the benchmark for SBI Nifty Index Fund?",
+      "Benchmark index for SBI Nifty Index Fund",
+      "SBI Nifty Index Fund benchmark"
+    ],
+    "answer": "SBI Nifty Index Fund uses Nifty 50 TRI (Total Return Index) as its benchmark. The fund aims to replicate the performance of the Nifty 50 Index. Current benchmark details are available in the factsheet.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/factsheet.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "benchmark"
+  },
+  "index_category": {
+    "question_variants": [
+      "What type of fund is SBI Nifty Index Fund?",
+      "SBI Nifty Index Fund category",
+      "What is an index fund?"
+    ],
+    "answer": "SBI Nifty Index Fund is a passive equity mutual fund that replicates the performance of the Nifty 50 Index. It invests in the same stocks in the same proportion as the index, offering low-cost exposure to large-cap stocks.",
+    "source": "https://www.sbmf.com/schemes/nifty-index/kim.pdf",
+    "last_updated": "2025-01-09",
+    "scheme_name": "SBI Nifty Index Fund",
+    "category": "general"
+  },
+  "general_statement_download_1": {
+    "question_variants": [
+      "How to download statements for SBI Mutual Fund?",
+      "Download account statement",
+      "Get statement SBI MF"
+    ],
+    "answer": "You can download your SBI Mutual Fund statements by logging into your account on the SBI Mutual Fund website. Navigate to the investor services section and select statement download. You can also contact customer service for assistance.",
+    "source": "https://www.sbmf.com/investor-services/statement-download",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "statements"
+  },
+  "general_statement_download_2": {
+    "question_variants": [
+      "Where can I get my SBI Mutual Fund account statement?",
+      "Account statement download SBI MF",
+      "How to access my statement?"
+    ],
+    "answer": "SBI Mutual Fund account statements can be downloaded from the official website by logging into your investor account. You can access statements for all your investments and transactions through the investor services portal.",
+    "source": "https://www.sbmf.com/investor-services/statement-download",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "statements"
+  },
+  "general_statement_download_3": {
+    "question_variants": [
+      "How do I download my mutual fund statement online?",
+      "Online statement SBI Mutual Fund",
+      "E-statement download"
+    ],
+    "answer": "To download your SBI Mutual Fund statement online, visit the SBI Mutual Fund website and log into your investor account. Go to the statement download section in investor services to access and download your account statements.",
+    "source": "https://www.sbmf.com/investor-services/statement-download",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "statements"
+  },
+  "general_account_access_1": {
+    "question_variants": [
+      "How to access my SBI Mutual Fund account?",
+      "Login to SBI MF account",
+      "Access my investment account"
+    ],
+    "answer": "You can access your SBI Mutual Fund account by visiting the official website and logging in with your investor ID and password. If you don't have login credentials, you can register using your folio number and other details.",
+    "source": "https://www.sbmf.com/investor-services/statement-download",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "statements"
+  },
+  "general_account_access_2": {
+    "question_variants": [
+      "How do I log into my SBI Mutual Fund account?",
+      "SBI MF login portal",
+      "Investor login SBI Mutual Fund"
+    ],
+    "answer": "To log into your SBI Mutual Fund account, visit the SBI Mutual Fund website and click on the investor login option. Enter your investor ID and password to access your account dashboard and view your investments.",
+    "source": "https://www.sbmf.com/investor-services/statement-download",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "statements"
+  },
+  "general_amfi_education": {
+    "question_variants": [
+      "Where can I learn about mutual funds?",
+      "Mutual fund investor education",
+      "AMFI investor education"
+    ],
+    "answer": "AMFI (Association of Mutual Funds in India) provides comprehensive investor education resources on their website. You can access guides, FAQs, and educational materials to learn about mutual fund investing, risks, and benefits.",
+    "source": "https://www.amfiindia.com/investor-education",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "general"
+  },
+  "general_amfi_nav": {
+    "question_variants": [
+      "Where can I check NAV of mutual funds?",
+      "Mutual fund NAV history",
+      "Check NAV AMFI"
+    ],
+    "answer": "You can check the NAV (Net Asset Value) of mutual funds on the AMFI website. The NAV history section provides historical NAV data for all mutual fund schemes in India. This is a reliable source for NAV information.",
+    "source": "https://www.amfiindia.com/nav-history",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "general"
+  },
+  "general_amfi_scheme_search": {
+    "question_variants": [
+      "How to find mutual fund schemes?",
+      "Search mutual fund schemes",
+      "AMFI scheme search"
+    ],
+    "answer": "You can search for mutual fund schemes using the AMFI scheme search tool on their website. This tool helps you find schemes by name, AMC, category, and other criteria. It provides comprehensive information about various mutual fund schemes.",
+    "source": "https://www.amfiindia.com/scheme-search",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "general"
+  },
+  "general_sebi_regulations": {
+    "question_variants": [
+      "What are the mutual fund regulations?",
+      "SEBI mutual fund rules",
+      "Mutual fund regulatory guidelines"
+    ],
+    "answer": "SEBI (Securities and Exchange Board of India) regulates mutual funds in India. The SEBI website provides comprehensive information about mutual fund regulations, guidelines, and investor protection measures. Refer to SEBI's mutual fund regulations page for details.",
+    "source": "https://www.sebi.gov.in/legal/mutual-funds/mutual-funds-regulations.html",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "general"
+  },
+  "general_sebi_investor": {
+    "question_variants": [
+      "What are my rights as a mutual fund investor?",
+      "Investor protection mutual funds",
+      "SEBI investor rights"
+    ],
+    "answer": "SEBI provides investor protection guidelines for mutual fund investors. These include disclosure requirements, grievance redressal mechanisms, and investor rights. You can find detailed information on SEBI's investor protection page for mutual funds.",
+    "source": "https://www.sebi.gov.in/investor/mutual-funds.html",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "general"
+  },
+  "general_sebi_circulars": {
+    "question_variants": [
+      "Where can I find mutual fund regulatory updates?",
+      "SEBI circulars mutual funds",
+      "Latest mutual fund regulations"
+    ],
+    "answer": "SEBI publishes circulars and regulatory updates related to mutual funds on their website. These circulars contain important regulatory changes, guidelines, and updates that affect mutual fund investors and AMCs. Check the SEBI circulars section for latest updates.",
+    "source": "https://www.sebi.gov.in/legal/circulars.html",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "general"
+  },
+  "general_sbi_faq": {
+    "question_variants": [
+      "Where can I find SBI Mutual Fund FAQs?",
+      "SBI MF frequently asked questions",
+      "Common questions SBI Mutual Fund"
+    ],
+    "answer": "SBI Mutual Fund maintains a comprehensive FAQ section on their website covering common investor queries about investments, redemptions, SIPs, account management, and other services. Visit the SBI MF FAQ page for answers to frequently asked questions.",
+    "source": "https://www.sbmf.com/faq",
+    "last_updated": "2025-01-09",
+    "scheme_name": "General",
+    "category": "general"
+  }
+}
+
